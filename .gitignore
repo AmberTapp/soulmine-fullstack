@@ -1,0 +1,27 @@
+# Node (frontend)
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Ruby (backend)
+*.rbc
+*.scssc
+*.sassc
+.sass-cache/
+.bundle/
+vendor/bundle/
+log/
+tmp/
+db/*.sqlite3
+db/*.sqlite3-journal
+.env
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
